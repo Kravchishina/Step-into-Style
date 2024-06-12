@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="intro_title">Крокуй вперед з нами\n<font color="#6033ba"> Кросівки для активного життя </font> </string>
+    <string name="intro_text">Невідставай від трендів\nОтримуй особисті рекомендації\nНасолоджуйся покупкою </string>
+    <string name="intro_signin">Вже маєш акаунт?<font color="#6033ba">Увійти</font></string>
+</resources>
