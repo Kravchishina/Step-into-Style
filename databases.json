@@ -1,0 +1,188 @@
+{
+  "Banner": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/banner%201.png?alt=media&token=ec7692c3-5893-4e4c-acd8-3be039d9a72d"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/banner%202.jpg?alt=media&token=109c0d7d-1885-49e8-bb3a-a787c128d73b"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/logo%202.png?alt=media&token=3197c18a-1919-4cd1-b4e0-21e9b3b2f71e",
+      "title": "Adidas"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/logo%203.png?alt=media&token=6c7ed762-a4b2-4414-8450-ab78dfac5fe2",
+      "title": "Nike"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/logo%201.png?alt=media&token=b75ac128-61e8-4a59-924e-2e5b537febdd",
+      "title": "Puma"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/logo%203.png?alt=media&token=6c7ed762-a4b2-4414-8450-ab78dfac5fe2",
+      "title": "New Balance"
+    },
+    {
+      "id": 4,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/logo%206.png?alt=media&token=cfd79c60-ffff-4fb2-a481-bc72da511b6c",
+      "title": "Reebok"
+    },
+    {
+      "id": 5,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/logo%205.png?alt=media&token=48196f5a-8f5a-4659-8a92-47a13117fe55",
+      "title": "Fila"
+    }
+  ],
+  "Items": [
+    {
+      "description": "Нові кольори та свіжі текстури оновлюють цей постійний фаворит, не втрачаючи його класичного вигляду та звичного відчуття. Виготовлені з матеріалів преміум-класу, зі зручною повітряною амортизацією та прикрашені тонкими акцентами, ці кросівки є основними кросівками для сучасного світу.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/color%201.png?alt=media&token=93a3b537-5e14-4ccd-a36d-883c257b6bec",
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/color%202.png?alt=media&token=cb89aaa9-6123-4cdd-9e7d-80aba7d965a4",
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/color%203.png?alt=media&token=35c648e7-16ad-4773-8e87-d8c503f80dd7",
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/color%204.png?alt=media&token=1796f1bc-9312-47a8-92a6-6fe1565637bd",
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/color%205.png?alt=media&token=729124fe-5add-4112-98da-6b4ac779d837",
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/color%206.png?alt=media&token=65480650-6053-4427-8979-8d496a80b139"
+      ],
+      "price": 90,
+      "rating": 4.9,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "title": "Jordan"
+    },
+    {
+      "description": "Вони забезпечують підтримку та стабільну посадку, а відчуття легкості дозволяє легко переходити від тренування до прогулянки.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/trainers%203%20(2).png?alt=media&token=d238cf52-8946-44d2-ad40-ca03cf50bae4"
+      ],
+      "price": 49,
+      "rating": 4.3,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "title": "Downshifter"
+    },
+    {
+      "description": "Нові сезонні кросівки. Легкий сітчастий верх з інтрригувальною вставкою з двох частин та деталями на заднику ідеально підходить для створення стильного вигляду.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/trainers%202%20.png?alt=media&token=e43e2f6b-6ac0-4bc7-868e-9b0b3c4b7ccf"
+      ],
+      "price": 50,
+      "rating": 4.5,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "title": "X-RAY SPEED LITE"
+    },
+    {
+      "description": "Незвичайне поєднання сітки та яскравих металізованих деталей створює взуття, яке однаково добре виглядає та відчувається на нозі.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/trainers%201%20.png?alt=media&token=eaf17dde-95bf-4a93-b3ab-08898e4c1cd3"
+      ],
+      "price": 75,
+      "rating": 4.8,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "title": "Milenio Tech"
+    },
+    {
+      "description": "Кросівки adidas Originals Junior Campus 00s у кольорах Semi Lucid Fuschsia, Footwear White і Gum 2. Ці кросівки звичайного крою з плоским шнурком мають виразний гладкий силует і мають пишний шкіряний верх, м’яку текстильну підкладку та чіпку гумову підошву для оптимального зчеплення. Зубчасті 3 смуги та трилисник поєднуються з контрастним написом Campus.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/trainers%205%20(2).png?alt=media&token=654d4177-bd3c-4027-ba0a-778a3276507c",
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/trainers%206.png?alt=media&token=dce649b2-ec6f-4053-9b08-f8970f20f7c4",
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/trainers%207.png?alt=media&token=250d27bc-6fe4-4b81-b9b3-9aa6b1ce9bf9",
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/trainers%208.png?alt=media&token=68129b2f-90cf-48b8-841f-84b72f4d5ed8"
+      ],
+      "price": 90,
+      "rating": 5.0,
+      "size": [
+        "39",
+        "40",
+        "41"
+      ],
+      "title": "Junior Campus 00s Trainer"
+    },
+    {
+      "description": "Fast Rider народився в 1980 році, коли біг почав переходити з доріжки на вулицю. Одна з наших найзручніших, але спрощених ікон, вона мала надлегкий, м’який нейлон, замшу, шкіряні посилення та амортизуючу підошву PUMA 'Federbein. У 2020 році ми оновлюємо Fast Rider як Future Rider. Кросівки Puma Trainers Womens Future Rider Interest Pristine Grey — це майбутнє повсякденного та крутого вуличного стилю з їх новим тонким Federbein та надзвичайно зручною піною для вершників. Це виконання має текстильний і шкіряний верх із замшевою планкою.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/trainers%209.png?alt=media&token=28ca98f0-9cfc-4040-8dec-b03db85a0e48"
+      ],
+      "price": 70,
+      "rating": 4.6,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "title": "Puma Trainers Womens Future Rider Interest Pristine Grey"
+    },
+    {
+      "description": "Поверніть легенду тераси на свої ноги з Puma Palermo у кольорі Grape Mist/Peach Fuzz, доповненою фірмовими T-носцями та надзвичайно зручними з гладкою замшею. Puma Palermo — це оновлена ​​ікона, класика тераси 80-х років, яка принесла свій багатошаровий низький силует на вулиці та стоїть у фірмовому стилі Puma. Тут представлені всі улюблені деталі, від верхньої накладки до дизайну T-пальців, усе з м’якої гладкої замші та прохолодного кольору. Блискучий фольгований бренд доповнює яскравий образ, який чудово поєднується з будь-яким предметом вашого повсякденного гардеробу.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/trainers%2010.png?alt=media&token=7c0e6bdd-5c9a-4b16-aef1-2c8c11f21fb7",
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/trainers%2012.png?alt=media&token=f051fbbb-8f25-4d47-b311-568ba0dd3f5c",
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/trainers%2013.png?alt=media&token=3449afd2-62f5-41f6-b3d4-b37ade0ee4e1"
+      ],
+      "price": 95,
+      "rating": 4.9,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "title": "Puma Palermo"
+    },
+    {
+      "description": "Оновіть свою колекцію протекторів за допомогою кросівок Campus 2 від adidas Originals. Ці низькі кросівки мають замшевий верх, що надає плюшевий вигляд, і текстильну підкладку, яка забезпечує зручне відчуття, із застібкою на шнурівці, щоб зафіксувати вас. Під ногами м’яка проміжна підошва забезпечує плавність кроку, а гумова підошва додає довговічності захоплення. Він оздоблений фірмовими 3-смугами на бічних стінках і фірмовим знаком Trifoil на п’яті.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/mobile-app1-41539.appspot.com/o/trainers%2011%20(2).png?alt=media&token=b4ab552a-b0a6-4cc4-8a23-5af9b9beb786"
+      ],
+      "price": 89,
+      "rating": 4.8,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "title": "Mens Campus 2 Trainers - Grey"
+    }
+  ]
+}
